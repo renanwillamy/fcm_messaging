@@ -1,0 +1,3 @@
+
+
+curl -X POST --header "Authorization: key=AIzaSyDhgVRPMDEXKlKPw6yoOGW8qIDB0lygYy0" --Header "Content-Type: application/json" https://fcm.googleapis.com/fcm/send -d "{\"to\":\"eF4yC1-ZR6c:APA91bFTs7KJqd8nsyXyBuzEzrVNigcTqWt4HVSyNEVRTYse_abO4bFu8HA8dFnjMnshSVXqJjUwCLG3kifnphsCRSQupj_pSYZQIBSkFJPYcg1D1JCD7xfzex14qNUglWRVuMUwR70F\",\"notification\":{\"body\":\"Yellow\",\"icon\" : \"/firebase-logo.png\"},\"priority\":10}"
